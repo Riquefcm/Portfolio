@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Projeto 1",
+        "description": "Automação do processo de cadastro de milhares de produtos no sistema usando Python para ser executado de forma diária e sob demanda."
+    },
+    {
+        "title": "Projeto 2",
+        "description": "Análise de cancelamento de clientes com gráficos e dashboards em Python para identificar as principais causas de cancelamento e possíveis ações de melhoria que reduziriam a taxa de 56% para 18%."
+    },
+    {
+        "title": "Projeto 3",
+        "description": "Criação de uma IA capaz de prever a nota de crédito de clientes de uma financeira com 86% de precisão baseado nas carecterísticas dos clientes."
+    },
+    {
+        "title": "Projeto 4",
+        "description": "Criação de um chat ao vivo para site e para app usando a ferramenta Flet, tanto frontend como backend, feitos em Python."
+    }
+]
